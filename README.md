@@ -46,6 +46,6 @@
 
 ## [Même pas mal !](https://github.com/MichelTerrier/Le-labyrinthe-de-verre/blob/main/23.%20M%C3%AAme%20pas%20mal%20!.pdf)
 
-## [Félins pour l'autre]([https://github.com/MichelTerrier/Le-labyrinthe-de-verre/blob/main/23.%20M%C3%AAme%20pas%20mal%20!.pdf](https://github.com/MichelTerrier/Le-labyrinthe-de-verre/blob/main/24.%20F%C3%A9lins%20pour%20l%E2%80%99autre.pdf))
+## [Félins pour l'autre](https://github.com/MichelTerrier/Le-labyrinthe-de-verre/blob/main/24.%20F%C3%A9lins%20pour%20l%E2%80%99autre.pdf)
 
 ## []()
