@@ -1,6 +1,6 @@
 # Le labyrinthe de verre
 
-## [Dégagez le pas de tir !](https://github.com/MichelTerrier/Le-labyrinthe-de-verre/blob/main/01.%20D%C3%A9gagez%20le%20pas%20de%20tir%20!.pdf)
+## [1. Dégagez le pas de tir !](https://github.com/MichelTerrier/Le-labyrinthe-de-verre/blob/main/01.%20D%C3%A9gagez%20le%20pas%20de%20tir%20!.pdf)
 
 ## [Robert et Denise sont dans un bateau](https://github.com/MichelTerrier/Le-labyrinthe-de-verre/blob/main/02.%20Robert%20et%20Denise%20sont%20dans%20un%20bateau%E2%80%A6.pdf)
 
