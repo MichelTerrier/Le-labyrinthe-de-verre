@@ -50,5 +50,4 @@
 
 ## [25. Contre mauvaise fortune, bunker](https://github.com/MichelTerrier/Le-labyrinthe-de-verre/blob/main/25.%20Contre%20mauvaise%20fortune%2C%20bunker.pdf)
 
-## [26. Ce serait bête de gâcher](https://github.com/MichelTerrier/Le-labyrinthe-de-verre/blob/main/26.%20Ce%20serait%20bêteC%20de%2C%20gâcher.pdf)
-
+## [26. Ce serait bête de gâcher].(https://github.com/MichelTerrier/Le-labyrinthe-de-verre/blob/main/26.%20Ce%20serait%20b%C3%AAte%20de%20g%C3%A2cher.pdf)
