@@ -47,7 +47,3 @@
 ## [23. Même pas mal !](https://github.com/MichelTerrier/Le-labyrinthe-de-verre/blob/main/23.%20M%C3%AAme%20pas%20mal%20!.pdf)
 
 ## [24. Contre mauvaise fortune, bunker](https://github.com/MichelTerrier/Le-labyrinthe-de-verre/blob/main/24.%20Contre%20mauvaise%20fortune%2C%20bunker.pdf)
-
-## [25. Félin pour l'autre](https://github.com/MichelTerrier/Le-labyrinthe-de-verre/blob/main/25.%20F%C3%A9lin%20pour%20l%E2%80%99autre.pdf)
-
-## [26. Ce serait bête de gâcher](https://github.com/MichelTerrier/Le-labyrinthe-de-verre/blob/main/26.%20Ce%20serait%20b%C3%AAte%20de%20g%C3%A2cher.pdf)
