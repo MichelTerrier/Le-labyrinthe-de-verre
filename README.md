@@ -42,3 +42,14 @@
 
 ## [21. Jetez-les par-dessus bord !](https://github.com/MichelTerrier/Le-labyrinthe-de-verre/blob/main/21.%20Jetez-les%20par-dessus%20bord%20!.pdf)
 
+## [22. Le saut du Gogol](https://github.com/MichelTerrier/Le-labyrinthe-de-verre/blob/main/22.%20Le%20saut%20du%20Gogol.pdf)
+
+## [23. Même pas mal !](https://github.com/MichelTerrier/Le-labyrinthe-de-verre/blob/main/23.%20Même%20pas%20mal%20!.pdf)
+
+## [24. Contre mauvaise fortune bunker](https://github.com/MichelTerrier/Le-labyrinthe-de-verre/blob/main/24.%20Contre%20mauvaise%20fortune%20bunker.pdf)
+
+## [25. Félin pour l'autre](https://github.com/MichelTerrier/Le-labyrinthe-de-verre/blob/main/25.%20Félin%20pour%20l'autre.pdf)
+
+## [26. Ça serait bête de gâcher](https://github.com/MichelTerrier/Le-labyrinthe-de-verre/blob/main/26.%20Ça%20serait%20bête%20de%20gâcher.pdf)
+
+## [27. Exit !](https://github.com/MichelTerrier/Le-labyrinthe-de-verre/blob/main/27.%20Exit%20!.pdf)
